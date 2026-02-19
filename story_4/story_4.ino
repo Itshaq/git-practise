@@ -48,5 +48,5 @@ void loop()
 {
   forward(5000);
   delay(1000);
-  reverse(2000)
+  reverse(2000);
 }
